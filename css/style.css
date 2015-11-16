@@ -1,8 +1,20 @@
 body {
-  background-color: dodgerblue;
+  background-color: cornsilk;
 }
 
 table img {
   width: 100px;
   margin: 10px;
+}
+
+.button-play {
+  text-align: center;
+  margin: 10px;
+}
+.button-play button {
+
+}
+
+.done {
+  opacity: 0.3;
 }
